@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/flor/Escritorio/example/src/polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! /home/flor/Escritorio/leaflet-map/example/src/polyfills.ts */"hN/g");
 
 
 /***/ }),

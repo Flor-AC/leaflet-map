@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/flor/Escritorio/example/src/main.ts */"zUnb");
+module.exports = __webpack_require__(/*! /home/flor/Escritorio/leaflet-map/example/src/main.ts */"zUnb");
 
 
 /***/ }),
@@ -144,7 +144,7 @@ class MapComponent {
     }
     initMap() {
         this.map = leaflet__WEBPACK_IMPORTED_MODULE_1__["map"]('map', {
-            center: [39.8282, -98.5795],
+            center: [8.838729, -97.086976],
             zoom: 3
         });
         const tiles = leaflet__WEBPACK_IMPORTED_MODULE_1__["tileLayer"]('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {

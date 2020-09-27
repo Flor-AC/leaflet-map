@@ -16,7 +16,7 @@ export class MapComponent implements OnInit {
 
   private initMap(): void {
     this.map = L.map('map', {
-      center: [ 39.8282, -98.5795 ],
+      center: [ 8.838729, -97.086976],
       zoom: 3
     });
 
